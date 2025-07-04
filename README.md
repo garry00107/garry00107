@@ -4,7 +4,7 @@
 
 ## 🔍 About Me
 
-- 👨‍💻 Working on cutting-edge AI: LLMs, Retrieval-Augmented Generation, and Agentic AI.
+- 👨‍💻 Working on AI: LLMs, Retrieval-Augmented Generation, and Agentic AI.
 - 🧩 Enjoy solving real-world problems with Computer Vision, NLP, and Deep Learning.
 - 🛠️ Passionate about low-level systems: OS concepts, Linux Device Drivers.
 - 💡 Believer in open source and continuous learning.
