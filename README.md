@@ -11,20 +11,6 @@
 
 ---
 
-## 🧩 Featured Projects
-
-**🔹 [Enhancing YOLO for Overlapping Object Resolution](#)**  
-YOLOv8 + DeepSORT for robust vehicle detection & tracking in Indian traffic.  
-- 📈 Achieved 86.9% mAP on vehicle detection and 98.8% precision for license plate localization.
-- 🗂️ Built a custom dataset with 20,000+ instances & polygon annotations to handle severe overlaps.
-
-**🔹 Founder Verifier**  
-Full-stack NLP-powered web app to automate startup founder reputation analysis.  
-- ⏱️ Reduced manual research time by 90% using web scraping & sentiment analysis.
-- 📊 Interactive dashboards (Chart.js, Leaflet.js) + PDF report generation.
-
----
-
 ## ⚙️ Tech Stack
 
 - **Languages:** C++, Python, SQL
